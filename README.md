@@ -19,6 +19,6 @@ The resulting data yield some interesting visuals like the one below:
 Showing the distinct advances in technology and test bed plane velocity through time.
 
 The X aircraft with the most high altitude high mach flights was the X-15. I developed the plot below just looking at the X-15 aircraft.
-![X15 mach vs altitude](X-15_mach_v_altitude.jpg)
+![X15 mach vs altitude](X-15_mach_v_altitude.jpeg)
 
 This plot highlights just how may tests were done between Mach 4 and 5 and were attempting to push the aircraft to higher and higher altitudes.
